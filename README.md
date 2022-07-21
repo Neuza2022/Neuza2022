@@ -4,5 +4,4 @@
 
 - Oi, sou  professora da  SEED da Disciplina de Pensamento Computacional
 - Estou interessada em aprender a programar novas linguagens
-- Atualmente estou aprendendo a linguagem de Scratch e HTML
 - Meu e-mail de contato é franca.neuza@escola.pr.gov.br
